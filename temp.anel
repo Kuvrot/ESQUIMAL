@@ -1,0 +1,63 @@
+<table border="1">
+        <tr>
+            <th>Plataforma</th>
+            <th>Tipo</th>
+            <th>Costo</th>
+            <th>Características Principales</th>
+            <th>Integraciones</th>
+            <th>Soporte Técnico</th>
+            <th>Escalabilidad</th>
+            <th>Personalización</th>
+        </tr>
+        <tr>
+            <td>Shopify</td>
+            <td>Paga</td>
+            <td>A partir de $29/mes</td>
+            <td>Fácil de usar, tienda en línea, POS, aplicaciones</td>
+            <td>Amplia gama de aplicaciones y complementos</td>
+            <td>Soporte 24/7</td>
+            <td>Escalable</td>
+            <td>Personalizable</td>
+        </tr>
+        <tr>
+            <td>WooCommerce (WordPress)</td>
+            <td>Gratuita</td>
+            <td>Depende de alojamiento y complementos</td>
+            <td>Flexibilidad, tienda en línea, blogs</td>
+            <td>Gran cantidad de complementos disponibles</td>
+            <td>Depende del proveedor de alojamiento</td>
+            <td>Escalable</td>
+            <td>Altamente personalizable</td>
+        </tr>
+        <tr>
+            <td>Magento</td>
+            <td>Gratuita / Paga</td>
+            <td>Depende de la edición</td>
+            <td>Escalabilidad, características avanzadas, B2B</td>
+            <td>Amplia gama de integraciones</td>
+            <td>Depende de la edición y proveedor de alojamiento</td>
+            <td>Muy escalable</td>
+            <td>Altamente personalizable</td>
+        </tr>
+        <tr>
+            <td>BigCommerce</td>
+            <td>Paga</td>
+            <td>A partir de $29.95/mes</td>
+            <td>Herramientas de SEO, marketing, tienda en línea</td>
+            <td>Integración con Google Shopping, Amazon, eBay</td>
+            <td>Soporte 24/7</td>
+            <td>Escalable</td>
+            <td>Personalizable</td>
+        </tr>
+        <tr>
+            <td>Volusion</td>
+            <td>Paga</td>
+            <td>A partir de $29/mes</td>
+            <td>Plantillas personalizables, ventas en línea</td>
+            <td>Integración con PayPal, Stripe, Amazon</td>
+            <td>Soporte 24/7</td>
+            <td>Escalable</td>
+            <td>Personalizable</td>
+        </tr>
+        <!-- Puedes seguir agregando más filas aquí -->
+    </table>
