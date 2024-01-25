@@ -2,15 +2,16 @@
 <html>
    <head>
      <?php 
+         
 
-         include "apis.html";
+         include "apis.html"; 
 
      ?>
    </head>
    <body>
       <div class="hero_area">
          <!-- header section strats -->
-         <?php include "header.html";?>
+         <?php include "header.php";?>
          <!-- end header section -->
          <!-- slider section -->
          <?php include "slider.html"?>
@@ -18,7 +19,7 @@
       </div>
       
        <!-- product section -->
-  <?php include "product.html"; ?>
+  <?php include "products.php"; ?>
      <!-- end product section -->
 
    <!-- why section -->

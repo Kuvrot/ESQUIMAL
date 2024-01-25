@@ -40,7 +40,7 @@
    </head>
    <body>
 
-       <?php include "header.html";?>
+       <?php include "header.php";?>
       <section class="arrival_section history">
          <div class="container">
             <div class="box">
