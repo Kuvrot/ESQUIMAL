@@ -1,3 +1,15 @@
+<style>
+         .video {
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding-bottom:2.5%;
+
+         }
+
+      </style>
+
 <section class="product_section layout_padding">
    <div class="container">
       <div class="heading_container heading_center">
@@ -30,10 +42,12 @@
          </div> 
          
       </div>
-     <!-- <div class="btn-box">
-         <a href="">
-         View All products
-         </a>
-      </div> -->
+   </div> 
+   <div style="border:3px;" class="video">
+   <video style="text-align:center;" width="640" height="480" controls>
+         <source src="images/video-promocional-esquimal.mp4" type="video/mp4">
+      </video> 
    </div>
 </section>
+
+ 
