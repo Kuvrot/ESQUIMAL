@@ -37,9 +37,9 @@ $products = [
                   </ul>
                </li>
                <li class="nav-item">
-                  <a class="nav-link" href="cakes.php">Pasteles</a>
+                  <a class="nav-link" href="https://esquimal4.odoo.com/shop">Pasteles</a>
                </li>
-               <li class="nav-item dropdown">
+               <!-- <li class="nav-item dropdown">
                   <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
                      <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style="enable-background:new 0 0 456.029 456.029;" xml:space="preserve">
                         <g>
@@ -128,7 +128,7 @@ $products = [
                         }
 
                         ?>
-                           <li> <button style="btn"><a href="cart.php">Ir al carrito</a></button></li>
+                           <li> <button style="btn"><a href="https://esquimal4.odoo.com/shop">Ir al carrito</a></button></li>
                         <?php
 
                      }else{
@@ -139,7 +139,7 @@ $products = [
                      
                      ?>
                   </ul>
-               </li>
+               </li> > -->
                <form class="form-inline">
                   <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
                   <i class="fa fa-search" aria-hidden="true"></i>

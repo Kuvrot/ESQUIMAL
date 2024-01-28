@@ -10,7 +10,7 @@
             <div class="box">
                <div class="option_container">
                   <div class="options">
-                     <a href="single-product.php" class="option1">
+                     <a href="https://esquimal4.odoo.com/shop" class="option1">
                         Comprar ahora
                      </a>
                   </div>
